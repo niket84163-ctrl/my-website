@@ -1,7 +1,5 @@
-# Hoi hoi
-
-hellooooo
-hiiii
+# 
+This is my first website
 
 ## Preview
 
